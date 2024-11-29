@@ -1,0 +1,60 @@
+Puntos Estacionarios: Máximos, Mínimos y Puntos de Inflexión
+¿Qué son los puntos estacionarios?
+
+En el estudio de funciones, los puntos estacionarios son aquellos en los que la pendiente de la curva es cero. Es decir, la recta tangente a la curva en esos puntos es horizontal. Estos puntos suelen ser de gran interés porque marcan cambios en el comportamiento de la función: pueden ser máximos, mínimos o puntos de inflexión.
+Tipos de puntos estacionarios
+1. Máximos y Mínimos
+
+    Máximos: Son los puntos más altos en un intervalo determinado. En un máximo local, la función aumenta hasta alcanzar ese punto y luego disminuye.
+    Mínimos: Son los puntos más bajos en un intervalo determinado. En un mínimo local, la función disminuye hasta alcanzar ese punto y luego aumenta.
+
+¿Cómo encontrarlos?
+
+    Derivada primera: Se iguala la derivada primera de la función a cero y se resuelven las ecuaciones resultantes. Los valores de x que se obtengan serán los candidatos a máximos o mínimos.
+    Criterio de la segunda derivada: Se evalúa la segunda derivada en los puntos críticos. Si la segunda derivada es negativa, se tiene un máximo; si es positiva, se tiene un mínimo.
+
+2. Puntos de Inflexión
+
+Son puntos donde la concavidad de la función cambia. Es decir, la curva pasa de ser cóncava hacia arriba a cóncava hacia abajo, o viceversa.
+
+¿Cómo encontrarlos?
+
+    Derivada segunda: Se iguala la segunda derivada de la función a cero y se resuelven las ecuaciones resultantes. Los valores de x que se obtengan serán los candidatos a puntos de inflexión.
+
+Ejemplos
+
+Ejemplo 1: Función cuadrática
+
+    Función: f(x) = x² - 4x + 3
+    Derivada primera: f'(x) = 2x - 4
+    Puntos críticos: 2x - 4 = 0 -> x = 2
+    Derivada segunda: f''(x) = 2 (siempre positiva)
+    Conclusión: En x = 2 hay un mínimo.
+
+Ejemplo 2: Función cúbica
+
+    Función: f(x) = x³ - 3x² + 2
+    Derivada primera: f'(x) = 3x² - 6x
+    Puntos críticos: 3x² - 6x = 0 -> x = 0, x = 2
+    Derivada segunda: f''(x) = 6x - 6
+    Conclusión: En x = 0 hay un máximo y en x = 2 hay un mínimo.
+
+Ejemplo 3: Función con punto de inflexión
+
+    Función: f(x) = x³
+    Derivada primera: f'(x) = 3x²
+    Puntos críticos: 3x² = 0 -> x = 0
+    Derivada segunda: f''(x) = 6x
+    Conclusión: En x = 0 hay un punto de inflexión (la concavidad cambia).
+
+Representación Gráfica
+
+[Imagen de una gráfica mostrando máximos, mínimos y puntos de inflexión]
+Aplicaciones
+
+Los puntos estacionarios tienen numerosas aplicaciones en diversos campos, como:
+
+    Optimización: Encontrar el máximo o mínimo de una función es fundamental para resolver problemas de optimización.
+    Análisis de funciones: Los puntos estacionarios ayudan a comprender el comportamiento de una función y a esbozar su gráfica.
+    Economía: Se utilizan para determinar puntos de equilibrio de mercado, maximizar beneficios o minimizar costos.
+    Física: Se aplican en problemas de movimiento, energía y otros fenómenos naturales.
